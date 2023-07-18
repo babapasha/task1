@@ -1,0 +1,28 @@
+.name{
+    border: solid black;
+    background-color: azure;
+}
+#name{
+    border: solid red;
+    font-size:x-large;
+    background-color: beige;
+}
+#name2{
+    background-color:blue;
+    font-size: 20px;
+}
+#name3{
+    font-size:larger;
+}
+#name4{
+    font-size: larger;
+}
+#name5{
+    font-size: larger;
+}
+#name6{
+    font-size: larger;
+}
+#name7{
+    font-size: larger;
+}
